@@ -27,7 +27,7 @@ public class FileSearch {
         FileSearch fileSearch = new FileSearch();
 
         //try different directory and filename :)
-        fileSearch.searchDirectory(new File("src/main/java"), ".*java");
+        fileSearch.searchDirectory(new File("../"), ".*java");
 
         int count = fileSearch.getResult().size();
         if (count == 0) {
