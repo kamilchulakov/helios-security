@@ -53,7 +53,7 @@
                     <configuration>
                         <archive>
                             <manifest>
-                                <mainClass>CheckFailure</mainClass>
+                                <mainClass>FileSearch</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
