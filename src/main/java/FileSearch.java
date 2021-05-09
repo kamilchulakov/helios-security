@@ -56,6 +56,7 @@ public class FileSearch {
                     }
                     for (String small: string.split(" ")) {
                         if (small.endsWith(";")) small = small.substring(0, small.length() - 1);
+                        if (small.contains("=\"s")) small = small.split("=")[1];
                         if (Pattern.matches("\"s(\\d){6}\"", small)) {
                             throw new CheckFailure("It has problems: " + matched);
                         }
