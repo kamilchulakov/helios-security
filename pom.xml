@@ -40,7 +40,7 @@
                                     <exclude>none</exclude>
                                 </excludes>
                                 <includes>
-                                    <include>AppTest</include>
+                                    <include>HeliosTest</include>
                                 </includes>
                             </configuration>
                         </execution>
