@@ -21,4 +21,6 @@ Checks if your Java code contains helios.se.ifmo.ru login and more... ITMOre.
 1) Тыкаешь во вкладку Actions в своём репозитории
 2) Тыкаешь set up a workflow yourself 
 3) Удаляешь всё
-4) Копируешь данный [файл](https://github.com/ulyanovskk/helios-security-action/blob/main/.github/workflows/test_helios.yml)
+4) Вставляешь туда данный [файл](https://github.com/ulyanovskk/helios-security-action/blob/main/.github/workflows/test_helios.yml)
+5) Совершаешь commit
+6) Получаешь результат через 45 секунд
