@@ -1,5 +1,5 @@
 # Helios-Security
-![se](https://se.ifmo.ru/o/helios-theme/images/company_logo.png)
+![se](img/утка.jpg)
 
 Checks if your Java code contains helios.se.ifmo.ru login and more... ITMOre.
 
